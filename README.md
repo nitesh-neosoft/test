@@ -1,3 +1,3 @@
 # test
 First Project
-Just Brushin up version controlling
+Just Brushing up version controlling
